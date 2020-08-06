@@ -27,3 +27,6 @@ bin/
 # fabric
 
 run/
+
+#my resources?
+src/main/resources/assets/notreddust/notredstone.xcf

@@ -1,12 +1,12 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "net.fabricmc.example.mixin",
-  "compatibilityLevel": "JAVA_8",
+  "package": "here.lenrik1589.notreddust.mixin",
+  "compatibilityLevel": "JAVA_14",
   "mixins": [
   ],
   "client": [
-    "ExampleMixin"
+    "RedstoneWireBlockMixin"
   ],
   "injectors": {
     "defaultRequire": 1

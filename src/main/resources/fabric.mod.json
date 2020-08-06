@@ -1,37 +1,37 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "notreddust",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Not Red Dust",
+  "description": "This mod lets you change color of redstone dust wire based on it's power level",
   "authors": [
-    "Me!"
+		"lenrik1589"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/lenrik1589/not-red-dust"
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/notreddust/icon.png",
 
-  "environment": "*",
+  "environment": "client",
   "entrypoints": {
-    "main": [
-      "net.fabricmc.example.ExampleMod"
-    ]
+		"modmenu": [
+			"here.lenrik1589.notreddust.config.NotRedConfig"
+		]
   },
   "mixins": [
-    "modid.mixins.json"
+		"notreddust.mixins.json"
   ],
-
+  "custom": {
+  },
   "depends": {
-    "fabricloader": ">=0.7.4",
-    "fabric": "*",
-    "minecraft": "1.16.x"
+		"fabricloader": ">=0.9.0",
+		"fabric": "*",
+		"minecraft": "1.16.x"
   },
   "suggests": {
-    "flamingo": "*"
+		"flamingo": "*"
   }
 }
