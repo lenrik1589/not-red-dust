@@ -1,6 +1,22 @@
 {
-	"title.notreddust.config": "Not Red Dust Config",
-	"category.notreddust.main": "General Config",
+	"notreddust.category.main": "General Config",
+	"notreddust.category.mode": "Mode Settings",
+	"notreddust.category.mode.desc": "Mode-specific settings.",
+	"notreddust.config.title": "Not Red Dust Config",
+	"notreddust.enabled": "Enabled",
+	"notreddust.enabled.desc": "Enables all mod functionality.",
+	"notreddust.gradient.end": "Gradient End",
+	"notreddust.gradient.end.desc": "Color of redstone with power 0.",
+	"notreddust.gradient.mode": "Gradient Mode",
+	"notreddust.gradient.mode.desc": "Interpolating using different values gives different result.",
+	"notreddust.gradient.start": "Gradient Start",
+	"notreddust.gradient.start.desc": "Color of redstone with power 15.",
 	"notreddust.mode": "Mode",
-	"notreddust.mode.desc": "Sets redstone coloring mode."
+	"notreddust.mode.desc": "Sets redstone coloring mode.",
+	"notreddust.one.color": "Color to Use",
+	"notreddust.one.color.desc": "Color of redstone with power 15.",
+	"notreddust.rainbow.power_brightness": "Power to brightness",
+	"notreddust.rainbow.power_brightness.desc": "Power level of dust affects it color's brightness.",
+	"notreddust.rainbow.reverse": "Reverse",
+	"notreddust.rainbow.reverse.desc": "Reverses the direction the rainbow is going"
 }

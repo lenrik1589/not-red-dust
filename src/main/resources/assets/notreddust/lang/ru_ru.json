@@ -1,0 +1,22 @@
+{
+	"notreddust.category.main": "Основные Настройки",
+	"notreddust.category.mode": "Настройки Режима",
+	"notreddust.category.mode.desc": "Специфические настройки режима.",
+	"notreddust.config.title": "Настройки не красной пыли",
+	"notreddust.enabled": "Включён",
+	"notreddust.enabled.desc": "Включает мод.",
+	"notreddust.gradient.end": "Конец Градиента",
+	"notreddust.gradient.end.desc": "Цвет КрасногоКамня с силой сигнала 0.",
+	"notreddust.gradient.mode": "Режим Градиента",
+	"notreddust.gradient.mode.desc": "Интерполяция, используя разные методы выглядит по разному.",
+	"notreddust.gradient.start": "Начало Градиента",
+	"notreddust.gradient.start.desc": "Цвет КрасногоКамня с силой сигнала 15.",
+	"notreddust.mode": "Режим",
+	"notreddust.mode.desc": "Устанавливает режим окраски пыли.",
+	"notreddust.one.color": "Цвет",
+	"notreddust.one.color.desc": "Цвет КрасногоКамня с силой сигнала 15.",
+	"notreddust.rainbow.power_brightness": "Яркость Сигнала",
+	"notreddust.rainbow.power_brightness.desc": "Уровень сигнала влияет на яркость цвета.",
+	"notreddust.rainbow.reverse": "Обратный Порядок",
+	"notreddust.rainbow.reverse.desc": "Обращает направление радуги в обратую сторону."
+}
